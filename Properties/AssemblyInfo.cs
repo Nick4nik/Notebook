@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Notebook")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Nick4nik")]
 [assembly: AssemblyProduct("Notebook")]
 [assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
